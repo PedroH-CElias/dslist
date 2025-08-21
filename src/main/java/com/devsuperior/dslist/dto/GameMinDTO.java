@@ -6,7 +6,7 @@ import com.devsuperior.dslist.entities.Game;
  * Data Transfer Object
  * Usada para pegar apenas os dados necessários para manipiular 
  * e mostrar para o usuário da forma que quiser
- * 
+ * É uma versão de Games com menos dados
  */
 public class GameMinDTO {
 	
